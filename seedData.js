@@ -199,742 +199,662 @@ exports.userData = [
 
 exports.answersData = [
   { 
-    _id : ObjectId("59ac4ba8a66a234f427f4a00"), 
+    _id : "59ac4ba8a66a234f427f4a00", 
     official : true, 
-    id : NumberInt(1), 
+    id : 1, 
     expansion : "Base", 
     text : "Ebira", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59ac4eeea66a234f427f4a04"), 
+    _id : "59ac4eeea66a234f427f4a04", 
     official : false, 
-    id : NumberInt(2), 
+    id : 1, 
     expansion : "Base", 
     text : "me", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59ac4ef9a66a234f427f4a05"), 
+    _id : "59ac4ef9a66a234f427f4a05", 
     official : false, 
-    id : NumberInt(3), 
+    id : 1, 
     expansion : "Base", 
     text : "hollanda", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59ac4f0ba66a234f427f4a06"), 
+    _id : "59ac4f0ba66a234f427f4a06", 
     official : true, 
-    id : NumberInt(4), 
+    id : 1, 
     expansion : "Base", 
     text : "lawd", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59af1691389ace0c6a196238"), 
+    _id : "59af1691389ace0c6a196238", 
     official : true, 
-    id : NumberInt(5), 
+    id : 1, 
     expansion : "Base", 
     text : "banana", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59af16a5389ace0c6a196239"), 
+    _id : "59af16a5389ace0c6a196239", 
     official : true, 
-    id : NumberInt(6), 
+    id : 1, 
     expansion : "Base", 
     text : "okro soup", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59af16b2389ace0c6a19623a"), 
+    _id : "59af16b2389ace0c6a19623a", 
     official : true, 
-    id : NumberInt(7), 
+    id : 1, 
     expansion : "Base", 
     text : "45", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59af16c2389ace0c6a19623b"), 
+    _id : "59af16c2389ace0c6a19623b", 
     official : true, 
-    id : NumberInt(8), 
+    id : 1, 
     expansion : "Base", 
     text : "36", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59af16cc389ace0c6a19623c"), 
+    _id : "59af16cc389ace0c6a19623c", 
     official : true, 
-    id : NumberInt(9), 
+    id : 1, 
     expansion : "Base", 
     text : "90", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
-    _id : ObjectId("59af16d7389ace0c6a19623d"), 
+    _id : "59af16d7389ace0c6a19623d", 
     official : true, 
-    id : NumberInt(10), 
+    id : N1, 
     expansion : "Base", 
     text : "Buhari", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af16e2389ace0c6a19623e"), 
+    _id : "59af16e2389ace0c6a19623e", 
     official : true, 
-    id : NumberInt(11), 
+    id : N1, 
     expansion : "Base", 
     text : "Erdogan", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af16ed389ace0c6a19623f"), 
+    _id : "59af16ed389ace0c6a19623f", 
     official : true, 
-    id : NumberInt(12), 
+    id : N1, 
     expansion : "Base", 
     text : "Obama", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af16f7389ace0c6a196240"), 
+    _id : "59af16f7389ace0c6a196240", 
     official : true, 
-    id : NumberInt(13), 
+    id : N1, 
     expansion : "Base", 
     text : "Trump", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af170a389ace0c6a196241"), 
+    _id : "59af170a389ace0c6a196241", 
     official : true, 
-    id : NumberInt(14), 
+    id : N1, 
     expansion : "Base", 
     text : "Ronaldo", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af171a389ace0c6a196242"), 
+    _id : "59af171a389ace0c6a196242", 
     official : true, 
-    id : NumberInt(15), 
+    id : N1, 
     expansion : "Base", 
     text : "Do you really care", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1723389ace0c6a196243"), 
+    _id : "59af1723389ace0c6a196243", 
     official : true, 
-    id : NumberInt(16), 
+    id : N1, 
     expansion : "Base", 
     text : "7", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1735389ace0c6a196244"), 
+    _id : "59af1735389ace0c6a196244", 
     official : true, 
-    id : NumberInt(17), 
+    id : N1, 
     expansion : "Base", 
     text : "Empire", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1743389ace0c6a196245"), 
+    _id : "59af1743389ace0c6a196245", 
     official : true, 
-    id : NumberInt(18), 
+    id : N1, 
     expansion : "Base", 
     text : "Lord rahl", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1751389ace0c6a196246"), 
+    _id : "59af1751389ace0c6a196246", 
     official : true, 
-    id : NumberInt(19), 
+    id : N1, 
     expansion : "Base", 
     text : "Zeddiccus", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1769389ace0c6a196247"), 
+    _id : "59af1769389ace0c6a196247", 
     official : true, 
-    id : NumberInt(20), 
+    id : N1, 
     expansion : "Base", 
     text : "Richard Cypher", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af177e389ace0c6a196248"), 
+    _id : "59af177e389ace0c6a196248", 
     official : true, 
-    id : NumberInt(21), 
+    id : N1, 
     expansion : "Base", 
     text : "Deanarys dragon", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1792389ace0c6a196249"), 
+    _id : "59af1792389ace0c6a196249", 
     official : true, 
-    id : NumberInt(21), 
+    id : N1, 
     expansion : "Base", 
     text : "Targaryan", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af179e389ace0c6a19624a"), 
+    _id : "59af179e389ace0c6a19624a", 
     official : true, 
-    id : NumberInt(22), 
+    id : N1, 
     expansion : "Base", 
     text : "Lannister", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af17bb389ace0c6a19624b"), 
+    _id : "59af17bb389ace0c6a19624b", 
     official : true, 
-    id : NumberInt(23), 
+    id : N1, 
     expansion : "Base", 
     text : "Everybody but us is the enemy", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af17cb389ace0c6a19624c"), 
+    _id : "59af17cb389ace0c6a19624c", 
     official : true, 
-    id : NumberInt(24), 
+    id : N1, 
     expansion : "Base", 
     text : "White walkers", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af17dd389ace0c6a19624d"), 
+    _id : "59af17dd389ace0c6a19624d", 
     official : true, 
-    id : NumberInt(30), 
+    id : N1, 
     expansion : "Base", 
     text : "Commander of the nightwatch", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af17f3389ace0c6a19624e"), 
+    _id : "59af17f3389ace0c6a19624e", 
     official : true, 
-    id : NumberInt(31), 
+    id : N1, 
     expansion : "Base", 
     text : "Aryan stack", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1804389ace0c6a19624f"), 
+    _id : "59af1804389ace0c6a19624f", 
     official : true, 
-    id : NumberInt(32), 
+    id : N1, 
     expansion : "Base", 
     text : "Sansa stack", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af180e389ace0c6a196250"), 
+    _id : "59af180e389ace0c6a196250", 
     official : true, 
-    id : NumberInt(33), 
+    id : N1, 
     expansion : "Base", 
     text : "Bryan stack", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af181e389ace0c6a196251"), 
+    _id : "59af181e389ace0c6a196251", 
     official : true, 
-    id : NumberInt(34), 
+    id : N1, 
     expansion : "Base", 
     text : "Ned stack", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af182c389ace0c6a196252"), 
+    _id : "59af182c389ace0c6a196252", 
     official : true, 
-    id : NumberInt(36), 
+    id : N1, 
     expansion : "Base", 
     text : "Game of thrones", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af183b389ace0c6a196253"), 
+    _id : "59af183b389ace0c6a196253", 
     official : true, 
-    id : NumberInt(37), 
+    id : N1, 
     expansion : "Base", 
     text : "You win or you die", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af184f389ace0c6a196254"), 
+    _id : "59af184f389ace0c6a196254", 
     official : true, 
-    id : NumberInt(38), 
+    id : N1, 
     expansion : "Base", 
     text : "Get rich or die trying", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af185b389ace0c6a196255"), 
+    _id : "59af185b389ace0c6a196255", 
     official : true, 
-    id : NumberInt(40), 
+    id : N1, 
     expansion : "Base", 
     text : "Nigeria", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af186c389ace0c6a196256"), 
+    _id : "59af186c389ace0c6a196256", 
     official : true, 
-    id : NumberInt(41), 
+    id : N1, 
     expansion : "Base", 
     text : "Great Wall", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1877389ace0c6a196257"), 
+    _id : "59af1877389ace0c6a196257", 
     official : true, 
-    id : NumberInt(42), 
+    id : N1, 
     expansion : "Base", 
     text : "Iron monkey", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1882389ace0c6a196258"), 
+    _id : "59af1882389ace0c6a196258", 
     official : true, 
-    id : NumberInt(43), 
+    id : N1, 
     expansion : "Base", 
     text : "Lionel messi", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1892389ace0c6a196259"), 
+    _id : "59af1892389ace0c6a196259", 
     official : true, 
-    id : NumberInt(44), 
+    id : N1, 
     expansion : "Base", 
     text : "Tevez", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af18a6389ace0c6a19625a"), 
+    _id : "59af18a6389ace0c6a19625a", 
     official : true, 
-    id : NumberInt(45), 
+    id : N1, 
     expansion : "Base", 
     text : "105", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af18b7389ace0c6a19625b"), 
+    _id : "59af18b7389ace0c6a19625b", 
     official : true, 
-    id : NumberInt(46), 
+    id : N1, 
     expansion : "Base", 
     text : "Kevin", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af18c1389ace0c6a19625c"), 
+    _id : "59af18c1389ace0c6a19625c", 
     official : true, 
-    id : NumberInt(47), 
+    id : N1, 
     expansion : "Base", 
     text : "Jimoh Hadi", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af18cc389ace0c6a19625d"), 
+    _id : "59af18cc389ace0c6a19625d", 
     official : true, 
-    id : NumberInt(48), 
+    id : N1, 
     expansion : "Base", 
     text : "Johadi", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af18e6389ace0c6a19625e"), 
+    _id : "59af18e6389ace0c6a19625e", 
     official : true, 
-    id : NumberInt(49), 
+    id : N1, 
     expansion : "Base", 
     text : "Don't walk like a cat", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af18fc389ace0c6a19625f"), 
+    _id : "59af18fc389ace0c6a19625f", 
     official : true, 
-    id : NumberInt(50), 
+    id : N1, 
     expansion : "Base", 
     text : "Evil is Horror", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af190a389ace0c6a196260"), 
+    _id : "59af190a389ace0c6a196260", 
     official : true, 
-    id : NumberInt(51), 
+    id : N1, 
     expansion : "Base", 
     text : "Andela is a movement", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59af1918389ace0c6a196261"), 
+    _id : "59af1918389ace0c6a196261", 
     official : true, 
-    id : NumberInt(52), 
+    id : N1, 
     expansion : "Base", 
     text : "Don't lost", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe8a82029e318c1417ee9"), 
+    _id : "59afe8a82029e318c1417ee9", 
     official : true, 
-    id : NumberInt(53), 
+    id : N1, 
     expansion : "Base", 
     text : "Abubakar", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe8b32029e318c1417eea"), 
+    _id : "59afe8b32029e318c1417eea", 
     official : true, 
-    id : NumberInt(54), 
+    id : N1, 
     expansion : "Base", 
     text : "Ada", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe8be2029e318c1417eeb"), 
+    _id : "59afe8be2029e318c1417eeb", 
     official : true, 
-    id : NumberInt(55), 
+    id : N1, 
     expansion : "Base", 
     text : "89", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe8ca2029e318c1417eec"), 
+    _id : "59afe8ca2029e318c1417eec", 
     official : true, 
-    id : NumberInt(56), 
+    id : N1, 
     expansion : "Base", 
     text : "39", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe8d42029e318c1417eed"), 
+    _id : "59afe8d42029e318c1417eed", 
     official : true, 
-    id : NumberInt(57), 
+    id : N1, 
     expansion : "Base", 
     text : "Oliver", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe8e12029e318c1417eee"), 
+    _id : "59afe8e12029e318c1417eee", 
     official : true, 
-    id : NumberInt(58), 
+    id : N1, 
     expansion : "Base", 
     text : "Bello", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe8ef2029e318c1417eef"), 
+    _id : "59afe8ef2029e318c1417eef", 
     official : true, 
-    id : NumberInt(59), 
+    id : N1, 
     expansion : "Base", 
     text : "No time", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9002029e318c1417ef0"), 
+    _id : "59afe9002029e318c1417ef0", 
     official : true, 
-    id : NumberInt(60), 
+    id : N1, 
     expansion : "Base", 
     text : "97", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9082029e318c1417ef1"), 
+    _id : "59afe9082029e318c1417ef1", 
     official : true, 
-    id : NumberInt(61), 
+    id : N1, 
     expansion : "Base", 
     text : "yes", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe90e2029e318c1417ef2"), 
+    _id : "59afe90e2029e318c1417ef2", 
     official : true, 
-    id : NumberInt(62), 
+    id : N1, 
     expansion : "Base", 
     text : "no", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9192029e318c1417ef3"), 
+    _id : "59afe9192029e318c1417ef3", 
     official : true, 
-    id : NumberInt(63), 
+    id : N1, 
     expansion : "Base", 
     text : "human being", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9242029e318c1417ef4"), 
+    _id : "59afe9242029e318c1417ef4", 
     official : true, 
-    id : NumberInt(64), 
+    id : N1, 
     expansion : "Base", 
     text : "Ajayi", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9322029e318c1417ef5"), 
+    _id : "59afe9322029e318c1417ef5", 
     official : true, 
-    id : NumberInt(65), 
+    id : N1, 
     expansion : "Base", 
     text : "Onile", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9472029e318c1417ef6"), 
+    _id : "59afe9472029e318c1417ef6", 
     official : true, 
-    id : NumberInt(66), 
+    id : N1, 
     expansion : "Base", 
     text : "Yobe", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9532029e318c1417ef7"), 
+    _id : "59afe9532029e318c1417ef7", 
     official : true, 
-    id : NumberInt(67), 
+    id : N1, 
     expansion : "Base", 
     text : "Holland", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9602029e318c1417ef8"), 
+    _id : "59afe9602029e318c1417ef8", 
     official : true, 
-    id : NumberInt(68), 
+    id : N1, 
     expansion : "Base", 
     text : "Ozi", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe96c2029e318c1417ef9"), 
+    _id : "59afe96c2029e318c1417ef9", 
     official : true, 
-    id : NumberInt(69), 
+    id : N1, 
     expansion : "Base", 
     text : "Pawpaw", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9772029e318c1417efa"), 
+    _id : "59afe9772029e318c1417efa", 
     official : true, 
-    id : NumberInt(70), 
+    id : N1, 
     expansion : "Base", 
     text : "Gosh", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9872029e318c1417efb"), 
+    _id : "59afe9872029e318c1417efb", 
     official : true, 
-    id : NumberInt(71), 
+    id : N1, 
     expansion : "Base", 
     text : "Mouse", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe98f2029e318c1417efc"), 
+    _id : "59afe98f2029e318c1417efc", 
     official : true, 
-    id : NumberInt(72), 
+    id : N1, 
     expansion : "Base", 
     text : "keyboard", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe99f2029e318c1417efd"), 
+    _id : "59afe99f2029e318c1417efd", 
     official : true, 
-    id : NumberInt(73), 
+    id : N1, 
     expansion : "Base", 
     text : "monitor", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afe9a72029e318c1417efe"), 
+    _id : "59afe9a72029e318c1417efe", 
     official : true, 
-    id : NumberInt(74), 
+    id : N1, 
     expansion : "Base", 
     text : "screen", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afea452029e318c1417eff"), 
+    _id : "59afea452029e318c1417eff", 
     official : true, 
-    id : NumberInt(75), 
+    id : N1, 
     expansion : "Base", 
     text : "CPU", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afea572029e318c1417f00"), 
+    _id : "59afea572029e318c1417f00", 
     official : true, 
-    id : NumberInt(76), 
+    id : N1, 
     expansion : "Base", 
     text : "keypad", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afea6a2029e318c1417f01"), 
+    _id : "59afea6a2029e318c1417f01", 
     official : true, 
-    id : NumberInt(77), 
+    id : N1, 
     expansion : "Base", 
     text : "register", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afea752029e318c1417f02"), 
+    _id : "59afea752029e318c1417f02", 
     official : true, 
-    id : NumberInt(78), 
+    id : N1, 
     expansion : "Base", 
     text : "Linker", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afea812029e318c1417f03"), 
+    _id : "59afea812029e318c1417f03", 
     official : true, 
-    id : NumberInt(79), 
+    id : N1, 
     expansion : "Base", 
     text : "Joseph", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afea8e2029e318c1417f04"), 
+    _id : "59afea8e2029e318c1417f04", 
     official : true, 
-    id : NumberInt(80), 
+    id : N1, 
     expansion : "Base", 
     text : "Yaw", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afea9b2029e318c1417f05"), 
+    _id : "59afea9b2029e318c1417f05", 
     official : true, 
-    id : NumberInt(81), 
+    id : N1, 
     expansion : "Base", 
     text : "Food", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeaa62029e318c1417f06"), 
+    _id : "59afeaa62029e318c1417f06", 
     official : true, 
-    id : NumberInt(82), 
+    id : N1, 
     expansion : "Base", 
     text : "Water", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeab62029e318c1417f07"), 
+    _id : "59afeab62029e318c1417f07", 
     official : true, 
-    id : NumberInt(83), 
+    id : N1, 
     expansion : "Base", 
     text : "weed", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeabd2029e318c1417f08"), 
+    _id : "59afeabd2029e318c1417f08", 
     official : true, 
-    id : NumberInt(84), 
+    id : N1, 
     expansion : "Base", 
     text : "bottle", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeaf02029e318c1417f09"), 
+    _id : "59afeaf02029e318c1417f09", 
     official : true, 
-    id : NumberInt(85), 
+    id : N1, 
     expansion : "Base", 
     text : "Turan", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeaf92029e318c1417f0a"), 
+    _id : "59afeaf92029e318c1417f0a", 
     official : true, 
-    id : NumberInt(90), 
+    id : N1, 
     expansion : "Base", 
     text : "Rooney", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb082029e318c1417f0b"), 
+    _id : "59afeb082029e318c1417f0b", 
     official : true, 
-    id : NumberInt(91), 
+    id : N1, 
     expansion : "Base", 
     text : "Nani", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb112029e318c1417f0c"), 
+    _id : "59afeb112029e318c1417f0c", 
     official : true, 
-    id : NumberInt(92), 
+    id : N1, 
     expansion : "Base", 
     text : "Iniesta", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb1a2029e318c1417f0d"), 
+    _id : "59afeb1a2029e318c1417f0d", 
     official : true, 
-    id : NumberInt(93), 
+    id : N1, 
     expansion : "Base", 
     text : "Edward", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb232029e318c1417f0e"), 
+    _id : "59afeb232029e318c1417f0e", 
     official : true, 
-    id : NumberInt(94), 
+    id : N1, 
     expansion : "Base", 
     text : "Lukaku", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb2b2029e318c1417f0f"), 
+    _id : "59afeb2b2029e318c1417f0f", 
     official : true, 
-    id : NumberInt(95), 
+    id : N1, 
     expansion : "Base", 
     text : "Pogba", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb342029e318c1417f10"), 
+    _id : "59afeb342029e318c1417f10", 
     official : true, 
-    id : NumberInt(96), 
+    id : N1, 
     expansion : "Base", 
     text : "Miki", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb3d2029e318c1417f11"), 
+    _id : "59afeb3d2029e318c1417f11", 
     official : true, 
-    id : NumberInt(97), 
+    id : N1, 
     expansion : "Base", 
     text : "Jones", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb472029e318c1417f12"), 
+    _id : "59afeb472029e318c1417f12", 
     official : true, 
-    id : NumberInt(98), 
+    id : N1, 
     expansion : "Base", 
     text : "De gea", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb552029e318c1417f13"), 
+    _id : "59afeb552029e318c1417f13", 
     official : true, 
-    id : NumberInt(99), 
+    id : N1, 
     expansion : "Base", 
     text : "Lord of the ring", 
-    __v : NumberInt(0)
-  },
+    __v : N)  },
   { 
-    _id : ObjectId("59afeb622029e318c1417f14"), 
+    _id : "59afeb622029e318c1417f14", 
     official : true, 
-    id : NumberInt(100), 
+    id : Nu1, 
     expansion : "Base", 
     text : "Zina", 
-    __v : NumberInt(0)
-  },
+    __v : Nu
+ },
   { 
-    _id : ObjectId("59afeb692029e318c1417f15"), 
+    _id : "59afeb692029e318c1417f15", 
     official : true, 
-    id : NumberInt(101), 
+    id : Nu1, 
     expansion : "Base", 
     text : "Hurray", 
-    __v : NumberInt(0)
-  }
+    __v : Nu
+ }
 ]
 
 exports.questionsData = [ { 
-    _id : ObjectId("59ac4ba8a66a234f427f4a00"), 
+    _id : "59ac4ba8a66a234f427f4a00", 
     official : true, 
-    id : NumberInt(1), 
+    id : 1, 
     expansion : "Base", 
     text : "Ebira", 
-    __v : NumberInt(0)
+    __v : 0
   },
   { 
     _id : ObjectId("59ac4eeea66a234f427f4a04"), 
@@ -1660,11 +1580,11 @@ exports.questionsData = [ {
 
 exports.regionsData = [
   {
-    id: NumberInt(1),
+    id: 1,
     name: "NG"
     }, 
   {
-    id: NumberInt(2),
+    id: 2,
     name: "Diaspora"
   }
 ]
