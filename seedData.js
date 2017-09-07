@@ -1,5 +1,5 @@
 // let userData;
-export const userData = [
+exports.userData = [
   {
     name: 'firstName lastName',
     email: 'email@email.com',
@@ -197,7 +197,7 @@ export const userData = [
   }
 ];
 
-export const questionData = [];
+// export const questionData = [];
 
 
 

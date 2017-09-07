@@ -1,5 +1,11 @@
-import seeder from './seeder';
-import { userData, questionsData, answersData, regionsData } from './seedData';
+var bcrypt = require('bcryptjs');
+var seeder = require('./seeder');
+var seedData = require('./seedData');
+
+var userData = seedData.userData;
+var questionsData = seedData.questionsData;
+var answersData = seedData.answersData;
+var regionsData = seedData.regionsData;
 
 const encryptPassword = (password) => {
   const hashedPassword = bcrypt.hashSync(password, bcrypt.genSaltSync(10));
@@ -7,7 +13,7 @@ const encryptPassword = (password) => {
 };
 
 
-export default function seedFunction(options) {
+module.exports = function seedFunction(options) {
   if (options.users) {
     // run users seed
     const updatedUserData = userData.map((user, key) => {

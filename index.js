@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 'use strict';
 
-import commander from 'commander';
-import seedFunction from './seedFunction';
+var commander = require('commander');
+var seedFunction = require('./seedFunction');
+
 
 commander
 .version('1.0.0')

@@ -1,14 +1,12 @@
-import mongodb from 'mongodb';
-import assert from 'assert';
-import bcrypt from 'bcryptjs';
-import userData from './userData';
+var mongodb = require('mongodb');
+var assert = require('assert');
 
 const mongoClient = mongodb.MongoClient;
 
 const url = 'mongodb://localhost:27017/';
 
 
-export default function seeder(data, model) {
+module.exports = function seeder(data, model) {
   const insert = (database, callback) => {
     const collections = database.collection(model);
 
@@ -16,6 +14,7 @@ export default function seeder(data, model) {
       if (error) {
         // TODO: handle error
       } else {
+        console.log(result);
         callback(result);
       }
     });
