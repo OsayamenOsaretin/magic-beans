@@ -13,6 +13,7 @@ module.exports = function seeder(data, model) {
     collections.insertMany(data, (error, result) => {
       if (error) {
         // TODO: handle error
+        console.log(error);
       } else {
         console.log(result);
         callback(result);
