@@ -1,6 +1,6 @@
 {
   "name": "magic-beans",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "seed data to mongodb",
   "main": "index.js",
   "bin": {
